@@ -1,12 +1,12 @@
  R3-SoftwareTraining-SamaBaradaran
 
-To start this project off I tried to follow the diagram on the given PDF file to the best of my ability, trying to connect the spefic wires to the ardiuno and to the battery. 
+To start this project off I tried to follow the diagram on the given PDF file to the best of my ability, trying to connect the spefic wires to the arduino and to the battery. 
 I took the time to try and colour code the wires to make things look easier 
-(red connects to positive, black connects to negative, grey is for ground, yellow connects to 5V on ardiuno, etc.). 
+(red connects to positive, black connects to negative, grey is for ground, yellow connects to 5V on arduino, etc.). 
 Arranging the wires neatly also helped with the organization. 
 
 Once that was done I tried to initialize all the variables and set up the whole project in the code, which went well since that was the basic stuff. 
-Through looking at the ardiuno website with all the references I was able to figure out (more or less) how you stop and start the motors. 
+Through looking at the arduino website with all the references I was able to figure out (more or less) how you stop and start the motors. 
 When I ran it, it was working fine, and the motors were running like they were supposed to. 
 I added a loop that relates to speed to see if it works. It did not and I am not sure why. 
 Then I just decided to connect the potentiometer to the ardiuno and breadboard and try to work with that. 
